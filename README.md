@@ -71,7 +71,8 @@ A typical structure is as follows:
 └── air_quality/
     ├── README.md
     ├── scripts/
-    └── renv.lock```
+    └── renv.lock
+```
 
 Each data-source directory includes:
 
@@ -93,7 +94,8 @@ R dependencies were managed using the `renv` package. For each data source proce
 Users with access to the original data sources can restore the R environment using:
 
 ```r
-renv::restore()```
+renv::restore()
+```
 
 Reproducibility is therefore conditional on access to the original input data.
 
