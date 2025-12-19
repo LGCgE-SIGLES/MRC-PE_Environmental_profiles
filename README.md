@@ -4,7 +4,7 @@
 
 Chronic kidney disease (CKD) is a broad public health issue whose main risk is progression to end-stage kidney disease (ESKD), with major consequences for patients and healthcare systems. In addition to well-established clinical risk factors, growing evidence suggests that environmental and territorial characteristics may play an important role in the spatial distribution of CKD incidence.
 
-The MRC-PE project (Chronic Kidney Disease – Environmental Profiles) aims to investigate, at the national scale, the association between territorial environmental profiles and the incidence of ESKD in metropolitan France. Particular attention is paid to the potential mediating role of diabetes, arterial hypertension, and other socio-environmental determinants such as social disadvantage and access to healthcare.
+The MRC-PE project (Chronic Kidney Disease – Environmental Profiles) aims to investigate, at the national scale, the association between territorial environmental profiles and the incidence of ESKD in metropolitan France. The project also examines the potential mediating role of diabetes, arterial hypertension, and other socio-environmental determinants, such as social disadvantage and access to healthcare.
 
 This multidisciplinary project relies on the linkage of large-scale health data (REIN registry, SNDS) with a comprehensive set of spatialized environmental indicators.
 
@@ -14,7 +14,7 @@ This multidisciplinary project relies on the linkage of large-scale health data 
 
 The final environmental indicators produced within the MRC-PE project are publicly available through the Recherche Data Gouv platform:
 
-**Environmental profiles of municipalities in metropolitan France – MRC-PE Project**  
+Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
 https://doi.org/10.57745/CDXXH6
 
 The published dataset provides 127 municipal-level environmental indicators covering metropolitan France (excluding Corsica), along with detailed metadata and recommended citation.
@@ -68,14 +68,14 @@ A typical structure is as follows:
 
 ```text
 1_contamination_levels/
-└── air_quality_INERIS/
+└── air_quality/
     ├── README.md
     ├── scripts/
     └── renv.lock```
 
 Each data-source directory includes:
 
-- a `README.md` describing the original data, the indicators produced, and the main processing steps;
+- a `README.md` describing the original data, the indicators produced, the main processing steps, and the interpretative limitations of these indicators;
 - R scripts when applicable;
 - a `renv.lock` file documenting R package dependencies.
 
@@ -104,6 +104,10 @@ Reproducibility is therefore conditional on access to the original input data.
 **All code and documentation provided in this repository are released under the Apache License, Version 2.0.**  
 See the `LICENSE` file for details.
 
+The final environmental indicators produced are publicly available through the Recherche Data Gouv platform:
+Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
+https://doi.org/10.57745/CDXXH6
+
 Most data sources used in the MRC-PE project are openly accessible. However, some datasets are subject to specific access or reuse conditions defined by their producers.
 
 Consequently:
@@ -118,7 +122,7 @@ Consequently:
 
 The indicators documented in this repository were designed for territorial-scale analyses, particularly in the context of environmental epidemiology.
 
-They describe environmental characteristics of municipalities and should not be interpreted as individual-level exposures. Spatial aggregation at the municipal level may mask substantial within-area heterogeneity, and temporal mismatches between data sources are present.
+They describe environmental features of municipalities and should not be interpreted as individual-level exposures. Spatial aggregation at the municipal level may mask substantial within-area heterogeneity, and temporal mismatches between data sources are present.
 
 ---
 
