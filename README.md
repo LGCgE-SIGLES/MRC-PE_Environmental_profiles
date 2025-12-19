@@ -107,6 +107,7 @@ Reproducibility is therefore conditional on access to the original input data.
 See the `LICENSE` file for details.
 
 The final environmental indicators produced are publicly available through the Recherche Data Gouv platform:
+
 Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
 https://doi.org/10.57745/CDXXH6
 
