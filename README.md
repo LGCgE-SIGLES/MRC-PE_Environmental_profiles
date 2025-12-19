@@ -17,7 +17,7 @@ The final environmental indicators produced within the MRC-PE project are public
 Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
 https://doi.org/10.57745/CDXXH6
 
-The published dataset provides 127 municipal-level environmental indicators covering metropolitan France (excluding Corsica), along with detailed metadata and recommended citation.
+The published dataset provides 150 municipal-level environmental indicators covering metropolitan France (excluding Corsica), along with detailed metadata and recommended citation.
 
 **This GitHub repository does not contain the final dataset.**  
 Its purpose is to document how the environmental indicators were produced, including data sources, processing steps, analytical assumptions, and limitations associated with data source or indicator construction.
