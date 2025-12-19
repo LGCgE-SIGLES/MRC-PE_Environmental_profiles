@@ -91,7 +91,7 @@ All data processing was conducted using:
 
 R dependencies were managed using the `renv` package. For each data source processed in R, a dedicated R project was used and the corresponding `renv.lock` file is provided.
 
-Users with access to the original data sources can restore the R environment using:
+Users can restore the R environment using:
 
 ```r
 renv::restore()
