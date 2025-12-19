@@ -4,7 +4,7 @@
 
 Chronic kidney disease (CKD) is a broad public health issue whose main risk is progression to end-stage kidney disease (ESKD), with major consequences for patients and healthcare systems. In addition to well-established clinical risk factors, growing evidence suggests that environmental and territorial characteristics may play an important role in the spatial distribution of CKD incidence.
 
-The MRC-PE project (Chronic Kidney Disease – Environmental Profiles) aims to investigate, at the national scale, the association between territorial environmental profiles and the incidence of ESKD in metropolitan France. The project also examines the potential mediating role of diabetes, arterial hypertension, and other socio-environmental determinants, such as social disadvantage and access to healthcare.
+The MRC-PE project (Chronic Kidney Disease – Environmental Profiles) aims to investigate, at the national scale, the association between territorial environmental profiles and the incidence of ESKD in metropolitan France, at the municipal level. The project also examines the potential mediating role of diabetes, arterial hypertension, and other socio-environmental determinants, such as social disadvantage and access to healthcare.
 
 This multidisciplinary project relies on the linkage of large-scale health data (REIN registry, SNDS) with a comprehensive set of spatialized environmental indicators.
 
