@@ -42,11 +42,11 @@ Due to licensing restrictions and data volume considerations, raw data are not r
 Environmental indicators are organized into six main thematic domains:
 
 - contamination levels of environmental media (e.g. air and soil pollution);
-- proximity to emission and nuisance sources (e.g. industrial facilities, transport infrastructure);
-- land use (e.g. artificial surfaces, natural and agricultural areas);
-- agricultural practices (e.g. crop types, pesticide-related indicators);
+- proximity to emission and nuisance sources (e.g. industrial facilities, contaminted sites and soils);
+- land use (e.g. artificial surfaces, agricultural land use);
+- agricultural practices (e.g. pesticide-related indicators, stocking density);
 - environmental amenities (e.g. green spaces, vegetation indices);
-- climate (e.g. temperature and meteorological indicators).
+- climate (e.g. temperature).
 
 Each thematic domain is implemented as a dedicated directory within the repository.
 
@@ -118,7 +118,7 @@ Consequently:
 
 The indicators documented in this repository were designed for territorial-scale analyses, particularly in the context of environmental epidemiology.
 
-They describe characteristics of municipalities and should not be interpreted as individual-level exposures. Spatial aggregation at the municipal level may mask substantial within-area heterogeneity, and temporal mismatches between data sources are present.
+They describe environmental characteristics of municipalities and should not be interpreted as individual-level exposures. Spatial aggregation at the municipal level may mask substantial within-area heterogeneity, and temporal mismatches between data sources are present.
 
 ---
 
@@ -126,7 +126,7 @@ They describe characteristics of municipalities and should not be interpreted as
 
 If you use the environmental indicators or the documentation provided in this repository, please cite the associated dataset:
 
-Paumelle, M., Occelli, F. (2025). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.  
+Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.  
 https://doi.org/10.57745/CDXXH6
 
 ---
@@ -135,5 +135,5 @@ https://doi.org/10.57745/CDXXH6
 
 For questions regarding the MRC-PE project or the content of this repository, please contact:
 
-- **Maxime Paumelle** – Université de Lille – martin.paumelle@univ-lille.fr  
+- **Martin Paumelle** – Université de Lille – martin.paumelle@univ-lille.fr  
 - **Florent Occelli** – Université de Lille – florent.occelli@univ-lille.fr
