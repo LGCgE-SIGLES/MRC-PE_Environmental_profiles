@@ -2,7 +2,7 @@
 
 
 
-This table provides a synthetic overview of all environmental data sources mobilized in the MRC-PE project.  
+This table provides a synthetic overview of all environmental data sources mobilized in the MRC-PE project.
 
 For each thematic domain, it lists the corresponding sub-thematic components and the original data sources.
 
