@@ -22,4 +22,4 @@ In other cases, data sources were only available for a single reference year and
 
 ## Thematic-specific points of attention
 
-Finally, each thematic domain is subject to specific limitations related to the characteristics of the open data sources used and to the methodological choices made during indicator construction. These thematic-specific points of attention are documented in the dedicated README files associated with each thematic directory.
+Finally, each thematic domain is subject to specific limitations related to the characteristics of the open data sources used and to the methodological choices made during indicator construction. These thematic-specific points of attention are documented in the dedicated README files within each corresponding directory.
