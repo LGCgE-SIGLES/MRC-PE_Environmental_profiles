@@ -4,13 +4,13 @@ Open environmental data were mobilized to spatially characterize, in a homogeneo
 
 These indicators constitute a relevant basis for spatial analyses conducted in metropolitan France at the municipal level. However, their use requires careful consideration of a number of general limitations and usage precautions, which are discussed transversally below.
 
----
+------------------------------------------------------------------------
 
 ## Territorial context indicators
 
 A central point is that the indicators describe average environmental conditions at the scale of a territory (municipal spatial unit). They should therefore be understood as proxies of potential exposure or environmental pressure. As such, they are useful for comparing territorial contexts with one another, but they are largely insufficient to directly infer individual-level exposures or risks.
 
----
+------------------------------------------------------------------------
 
 ## Temporal heterogeneity of indicators
 
@@ -18,10 +18,8 @@ The open data sources mobilized exhibit temporal mismatches, both in terms of pe
 
 In other cases, data sources were only available for a single reference year and therefore reflect a snapshot of environmental conditions at a given point in time (e.g. contaminated sites and soils, road network, naturalness index).
 
----
+------------------------------------------------------------------------
 
 ## Thematic-specific points of attention
 
 Finally, each thematic domain is subject to specific limitations related to the characteristics of the open data sources used and to the methodological choices made during indicator construction. These thematic-specific points of attention are documented in the dedicated README files associated with each thematic directory.
-
-
