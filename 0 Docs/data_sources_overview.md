@@ -2,7 +2,7 @@
 
 
 
-This table provides a synthetic overview of all environmental data sources mobilized in the MRC-PE project.
+This table provides a synthetic overview of all environmental data sources mobilized in the MRC-PE project.  
 
 For each thematic domain, it lists the corresponding sub-thematic components and the original data sources.
 
@@ -49,6 +49,4 @@ For each thematic domain, it lists the corresponding sub-thematic components and
 |  | Normalized Difference Vegetation Index (NDVI) | \*Santé publique France (SPF) – data available upon reasonable request (Adélaïde et al., 2024)\* |
 
 | \*\*Climate\*\* | Temperature | \*Santé publique France (SPF) – data available upon reasonable request (Adélaïde et al., 2024)\* |
-
-
 
