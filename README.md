@@ -41,10 +41,10 @@ Due to licensing restrictions and data volume considerations, raw data are not r
 
 Environmental indicators are organized into six main thematic domains:
 
-- contamination levels of environmental media (e.g. air and soil pollution);
-- proximity to emission and nuisance sources (e.g. industrial facilities, contaminted sites and soils);
+- contamination levels of environmental media (e.g. air pollution, soil contamination);
+- proximity to emission and nuisance sources (e.g. industrial facilities, contaminated sites and soils);
 - land use (e.g. artificial surfaces, agricultural land use);
-- agricultural practices (e.g. pesticide-related indicators, stocking density);
+- agricultural practices (e.g. purchases of pesticide actives substances, stocking density);
 - environmental amenities (e.g. green spaces, vegetation indices);
 - climate (e.g. temperature).
 
@@ -56,19 +56,18 @@ Each thematic domain is implemented as a dedicated directory within the reposito
 
 The repository is organized around two complementary levels of documentation.
 
-First, a general documentation directory (`_docs/`) provides transversal information applicable to the entire dataset:
+First, a general documentation directory (`0 Docs/`) provides transversal information applicable to the entire dataset:
 
 - `general_limitations.md` documents general limitations and usage recommendations common to all indicators;
 - `data_sources_overview.md` provides a synthetic overview of all data sources used in the project;
-- `indicator_themes.md` describes the conceptual scope and rationale of each thematic domain.
 
 Second, the repository is structured by thematic domain and by data source. Each data source is documented independently in order to clearly describe how the corresponding indicators were derived.
 
 A typical structure is as follows:
 
 ```text
-1_contamination_levels/
-└── air_quality/
+1 Contamination levels of environmental media/
+└── Air pollution/
     ├── README.md
     ├── scripts/
     └── renv.lock
@@ -142,5 +141,5 @@ https://doi.org/10.57745/CDXXH6
 
 For questions regarding the MRC-PE project or the content of this repository, please contact:
 
-- **Martin Paumelle** – Université de Lille – martin.paumelle@univ-lille.fr  
-- **Florent Occelli** – Université de Lille – florent.occelli@univ-lille.fr
+- **Dr. Martin Paumelle** – Université de Lille – martin.paumelle@univ-lille.fr  
+- **Dr. Florent Occelli** – Université de Lille – florent.occelli@univ-lille.fr
