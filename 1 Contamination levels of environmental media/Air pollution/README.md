@@ -1,4 +1,4 @@
-# Air pollution indicators – INERIS
+# Air pollution indicators
 
 ## 1. Data source overview
 
@@ -61,4 +61,8 @@ All raster-based indicators were then aggregated to the municipal level. For eac
 
 - Spatial scale: indicators describe average background air pollution levels at the municipal scale and do not capture fine-scale spatial variability near specific emission sources.
 - Temporal aggregation: long-term averages may mask short-term pollution peaks and episodic exposure events.
+
+## References: 
+
+Real E, Couvidat F, Ung A, et al (2022) Historical reconstruction of background air pollution over France for 2000–2015. Earth System Science Data 14:2419–2443. https://doi.org/10.5194/essd-14-2419-2022
 
