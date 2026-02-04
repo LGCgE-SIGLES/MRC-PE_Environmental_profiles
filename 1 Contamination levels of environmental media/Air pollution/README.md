@@ -57,6 +57,10 @@ To ensure spatial consistency over time, rasters produced before 2018 (4 km reso
 
 All raster-based indicators were then aggregated to the municipal level. For each municipality, indicator values correspond to the mean of raster cell values intersecting the municipal boundary.
 
+### Software implementation
+
+All processing steps were implemented in R using standard spatial analysis libraries. 
+
 ## 4. Limitations and points of attention
 
 - Spatial scale: indicators describe average background air pollution levels at the municipal scale and do not capture fine-scale spatial variability near specific emission sources.
