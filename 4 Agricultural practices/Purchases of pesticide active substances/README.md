@@ -123,6 +123,3 @@ Spatial allocation from postal codes to municipalities relies on polygon-based s
 
 
 Indicators are intended for comparative and exploratory analyses and should not be interpreted as direct measures of pesticide use.
-
-nce).
-
