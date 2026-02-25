@@ -1,7 +1,8 @@
 # Overview of data sources used in the MRC-PE project
 
 The identification and collection of environmental data sources for the MRC-PE project were conducted up to September 2024. 
-Consequently, only datasets publicly available or accessible at that time were considered for indicator construction. It is therefore possible that additional datasets have been released after this date and are not included in the present work.
+Consequently, only datasets publicly available or accessible at that time were considered for indicator construction. 
+Additional datasets may have been released after this date and are therefore not included in the present work.
 
 This table provides a synthetic overview of all environmental data sources mobilized in the MRC-PE project.\
 For each thematic domain, it lists the corresponding sub-thematic components and the original data sources.
