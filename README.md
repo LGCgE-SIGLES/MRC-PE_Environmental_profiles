@@ -15,7 +15,7 @@ This multidisciplinary project relies on the linkage of large-scale health data 
 The final environmental indicators produced within the MRC-PE project are publicly available through the Recherche Data Gouv platform:
 
 Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
-https://doi.org/10.57745/CDXXH6
+The DOI and permanent URL will be added here once the dataset is officially published.
 
 The published dataset provides 150 municipal-level environmental indicators covering metropolitan France (excluding Corsica), along with detailed metadata and recommended citation.
 
@@ -108,7 +108,7 @@ See the `LICENSE` file for details.
 The final environmental indicators produced are publicly available through the Recherche Data Gouv platform:
 
 Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.
-https://doi.org/10.57745/CDXXH6
+The DOI and permanent URL will be added here once the dataset is officially published.
 
 Most data sources used in the MRC-PE project are openly accessible. However, some datasets are subject to specific access or reuse conditions defined by their producers.
 
