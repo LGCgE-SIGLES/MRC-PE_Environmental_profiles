@@ -130,8 +130,7 @@ They describe environmental features of municipalities and should not be interpr
 
 If you use the methods, code, or documentation provided in this repository, or make use of the environmental indicators produced within the MRC-PE project, please cite the associated dataset:
 
-Paumelle, M., Deram, A., Lanier, C., Occelli, F. (2026). *Environmental profiles of municipalities in metropolitan France – MRC-PE Project*.  
-***The DOI and permanent URL will be added here once the dataset is officially published.***
+Paumelle, Martin; Deram, Annabelle; Lanier, Caroline; Occelli, Florent, 2026, "Environmental profiles of municipalities in metropolitan France – MRC-PE Project", **https://doi.org/10.57745/CDXXH6**, Recherche Data Gouv, V1
 
 ---
 
